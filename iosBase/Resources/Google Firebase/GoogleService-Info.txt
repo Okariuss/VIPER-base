@@ -1,0 +1,2 @@
+Place your `GoogleService-Info.plist` file for the PROD target in this folder.
+Make sure the file name is exactly `GoogleService-Info.plist` (case-sensitive).

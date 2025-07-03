@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  iosBase
+
+  Created by Okan Orkun on 29.05.2025.
+  
+*/
+
+// Common
+"common_ok" = "OK";
+"common_cancel" = "Cancel";
+"common_error" = "Error";
+"common_success" = "Success";
+"common_warning" = "Warning";
+"common_next" = "Next";
+"common_back" = "Back";
+"common_skip" = "Skip";
+"common_get_started" = "Get Started";
+
+// Authentication
+"authentication_login" = "Login";
+"authentication_login_title" = "Welcome Back";
+"authentication_signup" = "Sign Up";
+"authentication_signup_title" = "Create Account";
+"authentication_name" = "Name";
+"authentication_email" = "Email";
+"authentication_password" = "Password";
+"authentication_confirm_password" = "Confirm Password";
+"authentication_forgot_password" = "Forgot Password?";
+"authentication_forgot_password_text" = "We've sent you an email with instructions to reset your password.";
+"authentication_no_account_signup" = "Don't have an account?";
+"authentication_have_account_login" = "Already have an account?";
+"authentication_logout" = "Logout";
+"authentication_empty_fields" = " can not be empty";
+"authentication_invalid_email" = "Please enter a valid email address. For example: example@gmail.com";
+"authentication_invalid_password" = "Your password must be at least 8 characters long and include an uppercase letter, a lowercase letter, a number, and a special character.";
+
+
+// Home
+"home_title" = "Home";
+"home_welcome" = "Welcome";
+"home_settings" = "Settings";
+"home_profile" = "Profile";
+
+// Onboarding
+"onboarding_skip" = "Skip";
+"onboarding_next" = "Next";
+"onboarding_get_started" = "Get Started";
+"onboarding_welcome_title" = "Welcome to VIPER Base";
+"onboarding_welcome_description" = "A solid foundation for your next iOS app";
+"onboarding_features_title" = "Modern Architecture";
+"onboarding_features_description" = "Built with VIPER architecture for clean, maintainable code";
+"onboarding_ready_title" = "Ready to Start";
+"onboarding_ready_description" = "Everything you need to build great iOS apps";
+
+// Validation
+"validation_enter_credentials" = "Please enter your email and password";
+"validation_fill_all_fields" = "Please fill all fields";
+"validation_invalid_credentials" = "Invalid email or password";
+"validation_passwords_does_not_match" = "Passwords don't match";
+"validation_invalid_signup_data" = "Please check your information and try again";
+"validation_unknown_error" = "An unknown error occurred";

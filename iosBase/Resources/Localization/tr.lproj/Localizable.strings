@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  iosBase
+
+  Created by Okan Orkun on 29.05.2025.
+  
+*/
+
+// Common
+"common_ok" = "Tamam";
+"common_cancel" = "İptal";
+"common_error" = "Hata";
+"common_success" = "Başarılı";
+"common_warning" = "Uyarı";
+"common_next" = "İleri";
+"common_back" = "Geri";
+"common_skip" = "Atla";
+"common_get_started" = "Başla";
+
+// Authentication
+"authentication_login" = "Giriş Yap";
+"authentication_login_title" = "Tekrar Hoşgeldiniz";
+"authentication_signup" = "Kayıt Ol";
+"authentication_signup_title" = "Hesap Oluştur";
+"authentication_name" = "İsim";
+"authentication_email" = "E-posta";
+"authentication_password" = "Şifre";
+"authentication_confirm_password" = "Şifreyi Onayla";
+"authentication_forgot_password" = "Şifremi Unuttum?";
+"authentication_forgot_password_text" = "Şifre sıfırlama maili başarı ile gönderildi";
+"authentication_no_account_signup" = "Hesabınız yok mu?";
+"authentication_have_account_login" = "Zaten hesabınız var mı?";
+"authentication_logout" = "Çıkış Yap";
+"authentication_empty_fields" = " boş olamaz";
+"authentication_invalid_email" = "Geçerli bir e-posta adresi girin. Örneğin: ornek@example.com";
+"authentication_invalid_password" = "Şifreniz en az 8 karakter olmalı ve büyük harf, küçük harf, rakam ve özel karakter içermelidir.";
+
+// Home
+"home_title" = "Ana Sayfa";
+"home_welcome" = "Hoşgeldiniz";
+"home_settings" = "Ayarlar";
+"home_profile" = "Profil";
+
+// Onboarding
+"onboarding_skip" = "Atla";
+"onboarding_next" = "Sonraki";
+"onboarding_get_started" = "Hadi Başlayalım";
+"onboarding_welcome_title" = "VIPER Base'e Hoşgeldiniz";
+"onboarding_welcome_description" = "Sonraki iOS uygulamanız için sağlam bir temel";
+"onboarding_features_title" = "Modern Mimari";
+"onboarding_features_description" = "Temiz, bakımı kolay kod için VIPER mimarisi ile oluşturuldu";
+"onboarding_ready_title" = "Başlamaya Hazır";
+"onboarding_ready_description" = "Harika iOS uygulamaları oluşturmak için ihtiyacınız olan her şey";
+
+// Validation
+"validation_enter_credentials" = "Lütfen e-posta ve şifrenizi girin";
+"validation_fill_all_fields" = "Lütfen tüm alanları doldurun";
+"validation_invalid_credentials" = "Geçersiz e-posta veya şifre";
+"validation_passwords_does_not_match" = "Şifreler eşleşmiyor";
+"validation_invalid_signup_data" = "Lütfen bilgilerinizi kontrol edin ve tekrar deneyin";
+"validation_unknown_error" = "Bilinmeyen bir hata oluştu";
