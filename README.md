@@ -86,29 +86,6 @@ It is designed for maintainability, readability, and easy management in large-sc
 
 ---
 
-## 📁 Project Structure
-
-```
-iosBase/
-├── Modules/
-│   └── Auth/
-│       ├── AuthViewController.swift
-│       ├── AuthPresenter.swift
-│       ├── AuthInteractor.swift
-│       ├── AuthEntity.swift
-│       ├── AuthRouter.swift
-│       └── AuthBuilder.swift
-├── Resources/
-│   └── Google Firebase/
-│       ├── GoogleService-Info.plist
-│       └── GoogleService-Debug-Info.plist
-├── Services/
-├── Helpers/
-└── Apply to Colors.swift
-```
-
----
-
 ## ⚡️ Setup
 
 ### 1. Clone the repository
