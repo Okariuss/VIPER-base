@@ -91,7 +91,7 @@ It is designed for maintainability, readability, and easy management in large-sc
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/iosBase.git
+git clone https://github.com/Okariuss/VIPER-base.git
 ```
 
 ### 2. Install dependencies
@@ -123,7 +123,7 @@ If you're using your own backend for auth:
 ### 5. Run the Project
 
 1. Open the project in **Xcode 16.4+**
-2. Select a build scheme (e.g., `iosBase-Dev`)
+2. Select a build scheme
 3. Press **Run**
 
 ---
